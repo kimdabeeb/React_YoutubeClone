@@ -65,10 +65,6 @@
 
 [Demo link]()
 
-### Default Page
-
----
-
 <div>
 <img width="45%" alt="스크린샷 2021-01-16 오후 4 08 47" src="https://user-images.githubusercontent.com/59603575/105004696-ab828d80-5a77-11eb-8359-c9d177e5556e.png">
 <img width="46%" alt="스크린샷 2021-01-16 오후 4 08 47" src="https://user-images.githubusercontent.com/59603575/105004700-acb3ba80-5a77-11eb-90f5-d29bb14a529c.png">
@@ -81,11 +77,6 @@
 
 - youtube api의 popular video의 데이터를 받아 화면에 보이게 구현
 - 미디어쿼리를 이용하여 화면에 따른 반응형 화면 구현
-
-
-### 전체 구조
-
-<img width="1680" alt="스크린샷 2021-01-16 오후 4 10 08" src="https://user-images.githubusercontent.com/59603575/104806018-b8a14180-5817-11eb-87f3-ebcf11d7e917.png">
 
 ---
 
@@ -100,19 +91,6 @@
 
 ---
 
-### Thumbnail click시 video page로 가는 기능
-
-<img width="60%" style="margin:0; padding:0;" alt="스크린샷 2021-01-16 오후 4 10 08" src="https://user-images.githubusercontent.com/59603575/104806020-ba6b0500-5817-11eb-910c-28f2f785ac98.png">
-<span style="font-size: 1.1em; margin-left:1em; color: #3498db;"></br>
-1. Thumbnail img or container click</br>
-2. App에서 PAGE state 변경 </br>
-3. config에 받은 video id를 이용해서 getApiData요청 </br>
-4. 그 데이터를 이용해서 video title, like 등의 데이터들을 받아와서 video contanier에서 render
-
----
-
-<div id="aboutTproject" />
-
 ## 알게된 것
 
 - React의 state, props를 이해
@@ -120,7 +98,6 @@
 - React hook 학습
 - postcss 학습
 - public api의 사용법, postman 이용방법 학습
-- 부족한 css의 grid에 대한 이해
 
 ---
 

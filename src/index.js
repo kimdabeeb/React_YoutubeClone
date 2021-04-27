@@ -6,7 +6,6 @@ import Youtube from "./serviceAPI/youtube";
 
 const youtube = new Youtube(process.env.REACT_APP_YOUTUBE_API_KEY);
 
-/* JavaScript */
 ReactDOM.render(
   <React.StrictMode>
     <App youtube={youtube} />

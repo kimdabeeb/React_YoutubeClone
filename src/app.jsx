@@ -13,8 +13,6 @@ function App({ youtube }) {
     setSelectedVideo(video);
   };
 
-  /* 이전상태 : 상태업데이트!! 
-    개발도구 component : 계속되는 렌더링때문에 useCallback 사용하여 [] 한번만 리렌더링, search memo 써줬으나 효과가 없었음 */
   const search = useCallback(
     query => {
       setSelectedVideo(null) 
