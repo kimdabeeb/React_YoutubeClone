@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/kimdabeeb/React_YoutubeClone/static/css/main.542d3417.chunk.css",
-    "main.js": "/kimdabeeb/React_YoutubeClone/static/js/main.fcac440b.chunk.js",
-    "main.js.map": "/kimdabeeb/React_YoutubeClone/static/js/main.fcac440b.chunk.js.map",
+    "main.css": "/kimdabeeb/React_YoutubeClone/static/css/main.378e14ea.chunk.css",
+    "main.js": "/kimdabeeb/React_YoutubeClone/static/js/main.70635dd0.chunk.js",
+    "main.js.map": "/kimdabeeb/React_YoutubeClone/static/js/main.70635dd0.chunk.js.map",
     "runtime-main.js": "/kimdabeeb/React_YoutubeClone/static/js/runtime-main.169e9d9f.js",
     "runtime-main.js.map": "/kimdabeeb/React_YoutubeClone/static/js/runtime-main.169e9d9f.js.map",
     "static/js/2.667b244b.chunk.js": "/kimdabeeb/React_YoutubeClone/static/js/2.667b244b.chunk.js",
     "static/js/2.667b244b.chunk.js.map": "/kimdabeeb/React_YoutubeClone/static/js/2.667b244b.chunk.js.map",
     "index.html": "/kimdabeeb/React_YoutubeClone/index.html",
-    "static/css/main.542d3417.chunk.css.map": "/kimdabeeb/React_YoutubeClone/static/css/main.542d3417.chunk.css.map",
+    "static/css/main.378e14ea.chunk.css.map": "/kimdabeeb/React_YoutubeClone/static/css/main.378e14ea.chunk.css.map",
     "static/js/2.667b244b.chunk.js.LICENSE.txt": "/kimdabeeb/React_YoutubeClone/static/js/2.667b244b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.169e9d9f.js",
     "static/js/2.667b244b.chunk.js",
-    "static/css/main.542d3417.chunk.css",
-    "static/js/main.fcac440b.chunk.js"
+    "static/css/main.378e14ea.chunk.css",
+    "static/js/main.70635dd0.chunk.js"
   ]
 }
